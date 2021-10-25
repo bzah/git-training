@@ -11,7 +11,7 @@ from installation to a first commit
     - Go to github repository page and copy the https (not ssh) URL.
     - `git clone https://github.com/bzah/git-training.git`
 5. Modify the following string: 
-   "git is the beast tool!" 
+   "git is the best tool!" 
    and save the file.
 6. Check the status of your local repository with `git status`.
 7. Add your modification to the index `git add exercice1.md`.
