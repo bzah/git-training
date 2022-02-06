@@ -1,5 +1,5 @@
 # GIT training
-## Exercice 2; no slides 19-36 of https://slides.com/danapopovici/gittuto-10aa0f#/19
+## Exercise 2; no slides 19-36 of https://slides.com/danapopovici/gittuto-10aa0f#/19
 introduction to fork, remote, branch, push
 
 1. Fork the repository on github
@@ -15,4 +15,3 @@ introduction to fork, remote, branch, push
 __Tip: it's usually shorter to do `git push -u myfork HEAD`__.
 6. Have a look on github to see the branch created.
 7. On github, create a pull request to my repository (bzah)
-# References

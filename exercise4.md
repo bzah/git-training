@@ -6,7 +6,8 @@ GUI for git, example of sourcetree
 2. Open the directory with our git repository versioned
 3. See the equivalent of git status with file status
 4. Add a tag for the 1.0.0 version
-   A tag is basically a branch wich do not move and where HEAD cannot be assigned to with checkout
+   UN TRUC
+   A tag is basically a branch which do not move and where HEAD cannot be assigned to with checkout
 5. See the log with History
 6. Add a branch, checkout on it and commit something
 7. Checkout elsewhere and cherry-pick the commit we just made.
