@@ -1,0 +1,2 @@
+{"rule":"CAN_CHECKOUT","sentence":"^\\QHowever, you cannot checkout to a branch opened in another worktree.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QCreate a branch fix/very_important_typo\nFix and commit the following sentence \"A wanderful world\"\nAdd a branch, checkout on it and commit something\nCheckout elsewhere and cherry-pick the commit we just made.\\E$"}

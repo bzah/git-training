@@ -1,6 +1,6 @@
 # GIT training
 ## Exercise 2; no slides 19-36 of https://slides.com/danapopovici/gittuto-10aa0f#/19
-introduction to fork, remote, branch, push
+Introduction to fork, remote, branch, push
 
 1. Fork the repository on github
 2. Locally, add the forked repository to your known repositories with:

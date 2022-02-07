@@ -23,6 +23,6 @@ _Tip: The steps `git fetch ...` and `git merge ...` can be done together with `g
   - Now with your preferred editor, solve the conflict by keeping in the file only the wanted modifications.
   - Save the modified file and commit it with `git commit -m "merge conflicts"`.
 10. Push your new commit to your remote with `git push myfork` (no need to use --set-upstream again).
-11. On github, see how your pull request behave now.
+11. On github, see how your pull request behaves now.
 
 # References
