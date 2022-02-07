@@ -1,0 +1,20 @@
+# name: ci-lint-example
+
+# on:
+#   push:
+#     branches:
+#       - master
+#   pull_request:
+
+# jobs:
+#   lint:
+#     name: Lint exercise file
+#     runs-on: ubuntu-latest
+#     steps:
+#     - name: Check out code
+#       uses: actions/checkout@v2
+
+#     - name: Lint exercise file
+#       uses: avto-dev/markdown-lint@v1
+#       with:
+#         args: './exercice6_CI.md'
