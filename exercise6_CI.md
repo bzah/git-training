@@ -13,14 +13,18 @@ In this exercise, we will create a simple CI to lint our documents.
    `git commit -m "Add CI linting"`
    `git push -u origin HEAD`
 6. Create a Pull Request on github
-6.
-6. 
-7. 
-   - Delete the branches with `git branch -d fix/very_important_typo git-training_2nd_wt`
-   - Delete the worktree with `git worktree remove git-training_2nd_wt`
-   If you only delete the worktree, the branch git-training_2nd_wt will persist.
-
+The CI file should be recognized.
+You should quickly see the PR status being updated.
+You can also see all running and past CI runs in github under "Action" tab.
+7. There are many more existing github actions to test, compile, lint, create documentations...
+You can check these on github action marketplace [2].
+For an example of a slightly more complex Ci, see icclim CI [3].
+Note: icclim also uses other tools not included in github actions such as readthedocs and pre-commit 
 # References
 [1] Lint action: https://github.com/marketplace/actions/markdown-linting-action
+[2] Marketplace: https://github.com/marketplace?type=actions
+[3] icclim CI
+   - yaml file: https://github.com/cerfacs-globc/icclim/blob/master/.github/workflows/ci.yml
+   - github action tab: https://github.com/cerfacs-globc/icclim/actions
 Github tutorial: https://docs.github.com/en/actions/quickstart
 
